@@ -52,6 +52,7 @@
           "object"
         ]
       }
-    ]
+    ],
+    "linebreak-style": ["warning", "windows"]
   }
 }
