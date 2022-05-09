@@ -59,6 +59,7 @@ const PassengerCard = ({
 
     return (
       <Card
+        key={p.value}
         bordered={false}
         bodyStyle={{ padding: 10 }}
         onMouseDown={(e) => e.preventDefault()}
