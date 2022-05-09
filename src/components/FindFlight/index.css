@@ -1,0 +1,12 @@
+.find-flight-container {
+    padding: 22px 0px 38px !important;
+}
+
+.origin-destiny-plane-icon {
+    opacity: 1;
+    transition: opacity .3s, color .3s;
+}
+
+.origin-destiny-plane-icon-invisible {
+    opacity: 0;
+}

@@ -1,0 +1,40 @@
+.flight-card {
+    margin-bottom: 24px !important;
+}
+
+.flight-card-origin {
+    margin-bottom: 12px;
+}
+
+.flight-card-destiny {
+    margin-bottom: 12px;
+}
+
+.flight-card-code {
+    text-align: center;
+    margin-bottom: 12px;
+}
+
+.flight-card-price {
+    margin-bottom: 0px !important;
+}
+
+@media screen and (min-width: 577px) {
+    .flight-card-origin {
+        text-align: left;
+    }
+
+    .flight-card-destiny {
+        text-align: right;
+    }
+}
+
+@media screen and (max-width: 576px) {
+    .flight-card-origin {
+        text-align: center;
+    }
+
+    .flight-card-destiny {
+        text-align: center;
+    }
+}
