@@ -53,6 +53,6 @@
         ]
       }
     ],
-    "linebreak-style": ["warning", "windows"]
+    "linebreak-style": [0, "windows"]
   }
 }
